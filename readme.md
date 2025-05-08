@@ -1,6 +1,3 @@
-Akoirala47: can you create me a readme file for this
-
-GitHub Copilot: I'll create a README file for your project, which appears to be an evaluation of ChatGPT responses compared to human advice using ROUGE scores.
 
 # Reddit Advice Evaluation
 
